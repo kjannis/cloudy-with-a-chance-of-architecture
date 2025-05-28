@@ -1,24 +1,43 @@
-# 📈 Scalability
+# 📈 Architecture Scalability
 
-Design for scale — vertical, horizontal, and organizational.
+Designing systems that grow efficiently with increasing demand.
 
-## 🔄 Scaling Types
+---
 
-- **Vertical**: More CPU/RAM
-- **Horizontal**: More instances
-- **Functional**: Shard workloads
+## 🔍 Types of Scalability
 
-## 🔧 Patterns
+| Type          | Description |
+|---------------|-------------|
+| **Vertical**   | Scaling up a machine (more CPU/RAM) |
+| **Horizontal** | Adding more instances/machines |
+| **Elastic**    | Dynamic scaling based on demand |
 
-- Load balancers
-- Sharding / partitioning
+---
+
+## 🌐 Scalability Patterns
+
+- Load balancing (HAProxy, NGINX, ALB)
+- Caching (Redis, CDN)
+- Queue-based load leveling
+- Database sharding and replication
 - Stateless services
 
-## 🧠 Concepts
+---
 
-- Throughput vs latency
-- Bottlenecks (DB, IO, CPU)
+## ⚙️ Tools & Platforms
 
-## 🔗 Resources
+- Kubernetes for autoscaling
+- AWS Auto Scaling Groups
+- Azure Scale Sets
+- GCP Cloud Load Balancing
+- Redis/Memcached for distributed caching
 
-- [Scaling Systems – Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+---
+
+## 📚 Resources
+
+- [Scalability Best Practices – Microsoft](https://learn.microsoft.com/en-us/azure/architecture/framework/scalability/)
+- [Horizontal vs Vertical Scaling – IBM](https://www.ibm.com/cloud/blog/horizontal-vs-vertical-scaling)
+- [Designing Data-Intensive Applications – Martin Kleppmann](https://dataintensive.net/)
+- [Scalability Patterns – InfoQ](https://www.infoq.com/articles/scalability-patterns/)
+
