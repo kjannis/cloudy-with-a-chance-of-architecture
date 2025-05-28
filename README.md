@@ -28,8 +28,6 @@ It includes:
 | `links/`           | Links to information gathered on blogs, credits where credits due        |
 | `development/`     | Gatherings on software development and design patterns                   |
 | `architecture/`    | Explanations of architectural styles, principles, and trade-offs         |
-| `certifications/`  | Information and study materials for certifications                       |
-| `deep-dives/`      | Long-form explorations of real-world systems or architectural challenges |
 
 ---
 
