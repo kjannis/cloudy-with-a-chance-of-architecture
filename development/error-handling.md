@@ -15,4 +15,5 @@ Strategies to catch, handle, and surface application errors gracefully.
 
 ## 📘 Resources
 
+- [Fail Fast – Martin Fowler](https://martinfowler.com/ieeeSoftware/failFast.pdf)
 - [Node.js Error Handling Best Practices](https://github.com/goldbergyoni/nodebestpractices#3-error-handling)
