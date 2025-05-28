@@ -26,8 +26,7 @@ It includes:
 | `notes/`           | General topic-based notes (cloud, system design, security, etc.)         |
 | `roadmap/`         | Information and ideas on what to focus on                                |
 | `links/`           | Links to information gathered on blogs, credits where credits due        |
-| `development/`     | Gatherings on general software development, not related to other topics  |
-| `design-patterns/` | Resources regarding software development and coding patterns             |
+| `development/`     | Gatherings on software development and design patterns                   |
 | `architecture/`    | Explanations of architectural styles, principles, and trade-offs         |
 | `certifications/`  | Information and study materials for certifications                       |
 | `deep-dives/`      | Long-form explorations of real-world systems or architectural challenges |
